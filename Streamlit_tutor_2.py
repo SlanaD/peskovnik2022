@@ -1,5 +1,8 @@
 ## SLD 2022-10-02
+#to run local:
 # py -m streamlit run Dataframe_compare_streamlit.py
+#
+#Prepared for streamlit.io
 
 import streamlit as st
 import pandas as pd
